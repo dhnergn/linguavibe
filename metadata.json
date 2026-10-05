@@ -1,0 +1,7 @@
+{
+  "name": "LinguaVibe",
+  "description": "Personalized language learning powered by adaptive ability algorithms, authentic vibe learning, contextual grammar, interactive stories, and gamified streak rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
